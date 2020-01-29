@@ -8,6 +8,7 @@
 
 # Data analysis competitions
 
+[BCI competitions](http://bbci.de/competition/)
 [Review of the BCI competition IV](https://www.frontiersin.org/articles/10.3389/fnins.2012.00055/full). The BCI competition IV stands in the tradition of prior BCI competitions that aim to provide high quality neuroscientific data for open access to the scientific community. As experienced already in prior competitions not only scientists from the narrow field of BCI compete, but scholars with a broad variety of backgrounds and nationalities. They include high specialists as well as students. The goals of all BCI competitions have always been to challenge with respect to novel paradigms and complex data. We report on the following challenges: (1) asynchronous data, (2) synthetic, (3) multi-class continuous data, (4) session-to-session transfer, (5) directionally modulated MEG, (6) finger movements recorded by ECoG. As after past competitions, our hope is that winning entries may enhance the analysis methods of future BCIs.
 
 # Organizations
