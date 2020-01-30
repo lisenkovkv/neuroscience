@@ -1,7 +1,10 @@
 # Python packages
 
 [PyMVPA](http://www.pymvpa.org/) is a Python package intended to ease statistical learning analyses of large datasets.
+
 [BioSPPY](https://github.com/PIA-Group/BioSPPy) a toolbox for biosignal processing written in Python.
+
+[BCIkit](https://github.com/octopicorn/bcikit). Toolkit and workbench for BCI software development, for Python.
 
 
 # Datasets
