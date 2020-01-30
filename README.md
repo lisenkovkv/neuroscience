@@ -12,6 +12,8 @@
 
 [EEGrunt](https://github.com/curiositry/EEGrunt). A Collection Python EEG (+ ECG) Analysis Utilities for OpenBCI and Muse.
 
+[Wyrm](https://github.com/bbci/wyrm) is a Brain Computer Interface (BCI) toolbox written in Python. Wyrm is suitable for running on-line BCI experiments as well as off-line analysis of EEG data.
+
 
 # Datasets
 
