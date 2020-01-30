@@ -18,6 +18,8 @@
 
 [Thunder](https://github.com/thunder-project/thunder). Scalable analysis of images and time series.
 
+[oyff](https://github.com/bbci/pyff). BCI Feedback Framework in Python.
+
 
 # Datasets
 
