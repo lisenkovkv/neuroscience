@@ -48,6 +48,7 @@
 # Android
 [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk). Android SDK for the NeuroSky MindWave Mobile Brainwave Sensing Headset
 
-#Applications
+# Applications
 [OpenViBE](http://openvibe.inria.fr). Software for BCI.
+
 [Brainstorm](https://neuroimage.usc.edu/brainstorm/) is a collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and animal invasive neurophysiology.
