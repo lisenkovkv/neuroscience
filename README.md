@@ -14,6 +14,8 @@
 
 [Wyrm](https://github.com/bbci/wyrm) is a Brain Computer Interface (BCI) toolbox written in Python. Wyrm is suitable for running on-line BCI experiments as well as off-line analysis of EEG data.
 
+[Mushu](https://github.com/bbci/mushu) is a free and open-source Brain Computer Interface (BCI) signal acquisition software written in Python.
+
 
 # Datasets
 
