@@ -16,3 +16,6 @@
 [Human Brain Project](https://www.humanbrainproject.eu/en/) aims to put in place a cutting-edge research infrastructure that will allow scientific and industrial researchers to advance our knowledge in the fields of neuroscience, computing, and brain-related medicine.
 
 [NeuroTechX](https://neurotechx.com/) is a non-profit organization whose mission is to facilitate the advancement of neurotechnology by providing key resources and learning opportunities, and by being leaders in local and worldwide technological initiatives.
+
+# Books
+[The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle)
