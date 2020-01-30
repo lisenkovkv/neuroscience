@@ -46,3 +46,4 @@
 
 #Applications
 [OpenViBE](http://openvibe.inria.fr). Software for BCI.
+[Brainstorm](https://neuroimage.usc.edu/brainstorm/) is a collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and animal invasive neurophysiology.
