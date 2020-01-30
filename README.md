@@ -6,6 +6,8 @@
 
 [BCIkit](https://github.com/octopicorn/bcikit). Toolkit and workbench for BCI software development, for Python.
 
+[OpenNFB](https://github.com/strfry/OpenNFB). A Neurofeedback software approach based on Python and Qt5/pyqtgraph It is ment for programmers, because it does not try to provide a visual programming language, like BrainBay/BioEra/BioExplorer, so it is only sutable for those who do not fear source code and the command line.
+
 
 # Datasets
 
