@@ -43,3 +43,6 @@
 
 # Android
 [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk). Android SDK for the NeuroSky MindWave Mobile Brainwave Sensing Headset
+
+#Applications
+[OpenViBE](http://openvibe.inria.fr). Software for BCI.
