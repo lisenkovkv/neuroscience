@@ -16,6 +16,8 @@
 
 [Mushu](https://github.com/bbci/mushu) is a free and open-source Brain Computer Interface (BCI) signal acquisition software written in Python.
 
+[Thunder](https://github.com/thunder-project/thunder). Scalable analysis of images and time series.
+
 
 # Datasets
 
