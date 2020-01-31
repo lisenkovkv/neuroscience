@@ -67,6 +67,8 @@
 
 [Mindflex](https://en.wikipedia.org/wiki/Mindflex) is a toy by Mattel which apparently uses brain waves to steer a ball through an obstacle course. The brain waves are captured with the enclosed EEG headset, which allows the user to control an air stream with their concentration, thus lifting or lowering the delicate foam ball.
 
+[Aurora](sleepwithaurora.com) has built decades of research into an easy to use sleep monitor. Whether your goal is to get better sleep, tap into dreams, or design new brainwave experiments, Aurora and it’s accompanying mobile and desktop apps are here to help.
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
