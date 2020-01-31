@@ -63,6 +63,10 @@
 
 [ANTnero](https://www.ant-neuro.com).Complete solutions for clinical Neurodiagnostics & Neuroscience research
 
+[Puzzlebox Telekinesis](https://puzzlebox.io/) Custom-fit EEG headsets suitable for steering machines, playing videos games, and typing messages with brainwaves
+
+[Mindflex](https://en.wikipedia.org/wiki/Mindflex) is a toy by Mattel which apparently uses brain waves to steer a ball through an obstacle course. The brain waves are captured with the enclosed EEG headset, which allows the user to control an air stream with their concentration, thus lifting or lowering the delicate foam ball.
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
