@@ -59,6 +59,8 @@
 
 [Philips Neuro's Commitment to Research](www.egi-art.com).
 
+[Biosemi](https://www.biosemi.com/index.htm)
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
