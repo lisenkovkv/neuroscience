@@ -39,6 +39,8 @@
 
 [Neuroanatomy](https://github.com/neuroanatomy). Group of neuroanatomy.
 
+[OpenEEG project](http://openeeg.sourceforge.net/doc/) is about making plans and software for do-it-yourself EEG devices available for free (as in GPL). It is aimed toward amateurs who would like to experiment with EEG.
+
 # Devices
 
 [OpenBCI](https://openbci.com/). Open Source Brain-Computer Interfaces.
