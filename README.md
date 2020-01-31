@@ -55,6 +55,8 @@
 
 [Wearable Sensing](https://wearablesensing.com/). DSI Series Dry EEG Headsets.
 
+BCIsystems (https://www.gtec.at/product/bcisystem/).A BCI provides a new communication channel between the human brain and a computer.
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
