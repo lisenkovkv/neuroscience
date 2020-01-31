@@ -51,6 +51,8 @@
 
 [Neurosky](http://neurosky.com/) enables the most insightful biometrics in mobile and wearable devices.
 
+[Muse](https://choosemuse.com/) translates your mental activity into the guiding sounds of weather to help you find focused calm.
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
