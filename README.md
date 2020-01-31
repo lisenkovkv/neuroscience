@@ -47,6 +47,8 @@
 
 [Emotiv](https://www.emotiv.com/). Gather, analyze, and experiment with brain data through our portable and accessible brain measuring solutions.
 
+[Neurosky](http://neurosky.com/) enables the most insightful biometrics in mobile and wearable devices.
+
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
