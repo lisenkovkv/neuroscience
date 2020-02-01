@@ -31,6 +31,10 @@
 
 [bnci-horizon-2020](http://bnci-horizon-2020.eu/database/data-sets)
 
+[RAM Public Data Release](http://memory.psych.upenn.edu/RAM)
+
+[MindBigData](http://mindbigdata.com/opendb/index.html)
+
 
 
 # Data analysis competitions
@@ -48,6 +52,8 @@
 [Neuroanatomy](https://github.com/neuroanatomy). Group of neuroanatomy.
 
 [OpenEEG project](http://openeeg.sourceforge.net/doc/) is about making plans and software for do-it-yourself EEG devices available for free (as in GPL). It is aimed toward amateurs who would like to experiment with EEG.
+
+[Child Mind Institute](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
 
 # Devices
 
