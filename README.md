@@ -20,6 +20,8 @@
 
 [oyff](https://github.com/bbci/pyff). BCI Feedback Framework in Python.
 
+[https://github.com/NeuroTechX/eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks)
+
 
 # Datasets
 
@@ -114,3 +116,5 @@
 # Courses
 
 [Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
+
+[CS198-96: Intro to Neurotechnology @ UC Berkeley](https://github.com/neurotech-berkeley/neurotech-course)
