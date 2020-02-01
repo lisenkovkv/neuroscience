@@ -59,6 +59,8 @@
 
 [EEG Study Schema (ESS) and related tools](http://www.eegstudy.org/) makes it easier for researcher in the field of EEG/BCI to package, share and automatize the analysis workflow of their study data.
 
+[Neuriscience community](https://neurotechx.com/).
+
 # Devices
 
 [OpenBCI](https://openbci.com/). Open Source Brain-Computer Interfaces.
