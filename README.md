@@ -20,7 +20,7 @@
 
 [oyff](https://github.com/bbci/pyff). BCI Feedback Framework in Python.
 
-[https://github.com/NeuroTechX/eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks)
+[https://github.com/NeuroTechX/eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks). A collection of classic EEG experiments implemented in Python and Jupyter notebooks. This repo is a work in progress with the goal of making it easy to perform classical EEG experiments and automatically analyze data.
 
 
 # Datasets
