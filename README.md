@@ -97,6 +97,8 @@
 
 [Neuralcubes Tech Demo](https://github.com/neuralcubes/musephero). This technical demo consists of an Android app which allows the user to control a Sphero Robot by simply using a Muse headband's EEG electrodes and accelerometers.
 
+[EEG101](https://github.com/NeuroTechX/eeg-101). Interactive neuroscience tutorial app using Muse and React Native to teach EEG and BCI basics.
+
 # Applications
 [OpenViBE](http://openvibe.inria.fr). Software for BCI.
 
