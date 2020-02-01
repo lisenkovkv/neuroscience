@@ -57,6 +57,8 @@
 
 [Child Mind Institute](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
 
+[EEG Study Schema (ESS) and related tools](http://www.eegstudy.org/) makes it easier for researcher in the field of EEG/BCI to package, share and automatize the analysis workflow of their study data.
+
 # Devices
 
 [OpenBCI](https://openbci.com/). Open Source Brain-Computer Interfaces.
