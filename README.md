@@ -92,8 +92,10 @@
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
-# Android
+# Android app
 [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk). Android SDK for the NeuroSky MindWave Mobile Brainwave Sensing Headset
+
+[Neuralcubes Tech Demo](https://github.com/neuralcubes/musephero). This technical demo consists of an Android app which allows the user to control a Sphero Robot by simply using a Muse headband's EEG electrodes and accelerometers.
 
 # Applications
 [OpenViBE](http://openvibe.inria.fr). Software for BCI.
@@ -103,3 +105,8 @@
 # Blogs
 
 [Daniel's visionarium](https://bakerdh.wordpress.com/).
+
+
+# Courses
+
+[Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
