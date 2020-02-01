@@ -108,6 +108,8 @@
 
 [Brainstorm](https://neuroimage.usc.edu/brainstorm/) is a collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and animal invasive neurophysiology.
 
+[Brainwave Analyzer](https://github.com/katie356/BrainwaveAnalyzer). Program to import raw brainwaves, and using FFT and Frequency Index calculate various bands of brainwaves. 
+
 # Blogs
 
 [Daniel's visionarium](https://bakerdh.wordpress.com/).
