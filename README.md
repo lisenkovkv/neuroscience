@@ -35,7 +35,9 @@
 
 [MindBigData](http://mindbigdata.com/opendb/index.html)
 
+[MindBigData](http://www.mindbigdata.com/opendb/imagenet.html)
 
+[A list of all public EEG-datasets](https://github.com/meagmohit/EEG-Datasets)
 
 # Data analysis competitions
 
