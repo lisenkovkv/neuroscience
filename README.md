@@ -25,6 +25,14 @@
 
 [Here is a list of publicly available brain signals data](http://www.brainsignals.de/)
 
+[EEG / ERP data available for free public download](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
+
+[EEG Study Catalog](http://studycatalog.org/)
+
+[bnci-horizon-2020](http://bnci-horizon-2020.eu/database/data-sets)
+
+
+
 # Data analysis competitions
 
 [BCI competitions](http://bbci.de/competition/)
@@ -68,6 +76,8 @@
 [Mindflex](https://en.wikipedia.org/wiki/Mindflex) is a toy by Mattel which apparently uses brain waves to steer a ball through an obstacle course. The brain waves are captured with the enclosed EEG headset, which allows the user to control an air stream with their concentration, thus lifting or lowering the delicate foam ball.
 
 [Aurora](sleepwithaurora.com) has built decades of research into an easy to use sleep monitor. Whether your goal is to get better sleep, tap into dreams, or design new brainwave experiments, Aurora and it’s accompanying mobile and desktop apps are here to help.
+
+[gtec.at](https://www.gtec.at/product/) develops and produces high-performance brain-computer interfaces and neurotechnologies for invasive and non-invasive recordings.
 
 # Books
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
