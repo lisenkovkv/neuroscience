@@ -187,3 +187,7 @@
 
 [Neuromarketing](https://www.coursera.org/learn/neuromarketing). This course will provide you with an introduction to some of the most basic methods in the emerging fields of consumer neuroscience and neuromarketing.
 
+[Drugs and the brain](https://www.coursera.org/learn/drugs-and-brain).The neuroscience of drugs for therapy, for prevention, and for recreation.
+
+[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience). Medical Neuroscience explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
+
