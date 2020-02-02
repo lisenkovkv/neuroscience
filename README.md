@@ -235,6 +235,9 @@
 
 [EEGEdu](https://eegedu.com/). This tutorial will help you learn about how neurons produce electrical activity we can measure.
 
+[Complete neural signal processing and analysis: Zero to hero](https://www.udemy.com/course/solved-challenges-ants/). Learn signal processing and statistics using brain electrical data with expert instruction and code challenges in MATLAB.
+
+
 # Videos
 
 [2-Minute Neuroscience](https://www.youtube.com/user/neurochallenged/featured)
