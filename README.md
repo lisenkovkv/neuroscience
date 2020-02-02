@@ -63,6 +63,8 @@
 
 [Neuriscience community](https://neurotechx.com/).
 
+[NeuroBB](https://neurobb.com/) the EEG, BCI, and neurofeedback discussion forum.
+
 # Devices
 
 [OpenBCI](https://openbci.com/). Open Source Brain-Computer Interfaces.
