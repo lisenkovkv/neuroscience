@@ -191,3 +191,10 @@
 
 [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience). Medical Neuroscience explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
 
+[Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology). Learn how the nervous system produces behavior, how we use our brain every day, and how neuroscience can explain the common problems afflicting people today.
+
+[Synapses, Neurons and Brains](https://www.coursera.org/learn/synapses)
+
+[Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging)
+
+
