@@ -45,6 +45,8 @@
 
 [Kaggle: psychology](https://www.kaggle.com/tags/psychology)
 
+[Kaggle: neuroscience](https://www.kaggle.com/tags/neuroscience)
+
 [Psychological Datasets](https://guides.library.ucla.edu/psychology/data)
 
 [OpenNEURO](https://openneuro.org/#). A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data.
