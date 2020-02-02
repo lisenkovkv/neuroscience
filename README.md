@@ -53,6 +53,14 @@
 
 [OpenNEURO](https://openneuro.org/#). A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data.
 
+[Meditation-EEG-Data](https://www.kaggle.com/abyssjumper/meditation-eegdata). Two data files of EEG recordings, one meditation and one baseline.
+
+[Synchronized Brainwave Dataset](https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset). Brainwave recordings from a group presented with a shared audio-visual stimulus.
+
+[EEG Analysis](https://www.kaggle.com/jbouv27/eeg/tasks). Sleep Pattern detection.
+
+
+
 # Data competitions
 
 [BCI competitions](http://bbci.de/competition/)
