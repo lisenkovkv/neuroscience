@@ -22,6 +22,8 @@
 
 [https://github.com/NeuroTechX/eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks). A collection of classic EEG experiments implemented in Python and Jupyter notebooks. This repo is a work in progress with the goal of making it easy to perform classical EEG experiments and automatically analyze data.
 
+[pyRiemann](https://github.com/alexandrebarachant/pyRiemann) is a python package for covariance matrices manipulation and classification through riemannian geometry.
+
 
 # Datasets
 
