@@ -87,6 +87,8 @@
 
 [NEUROECONOMICS LAB](https://www.neuroeconomicslab.org/) The central goal of the laboratory for economics, psychology and neuroscience of decision is to develop and advance interdisciplinary models of human choice.
 
+[Centre for Cognition & Decision Making](https://www.hse.ru/en/cdm-centre/)
+
 
 
 # Devices
