@@ -207,4 +207,4 @@
 
 [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging)
 
-
+[Real Neurons & Hidden Units: Future directions at the intersection of neuroscience and artificial intelligence @ NeurIPS 2019](https://sites.google.com/mila.quebec/neuroaiworkshop/home)
