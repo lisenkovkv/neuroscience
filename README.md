@@ -27,6 +27,8 @@
 
 # Datasets
 
+[https://github.com/meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets). A list of all public EEG-datasets. 
+
 [Here is a list of publicly available brain signals data](http://www.brainsignals.de/)
 
 [EEG / ERP data available for free public download](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
