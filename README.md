@@ -185,6 +185,5 @@
 
 [BCI workshop - NeuroTechTO](https://github.com/NeuroTechX/bci-workshop/blob/master/INSTRUCTIONS.md).This workshop is intended for people with no or limited experience with Brain-Computer Interfaces (BCIs).
 
-
-
+[Neuromarketing](https://www.coursera.org/learn/neuromarketing). This course will provide you with an introduction to some of the most basic methods in the emerging fields of consumer neuroscience and neuromarketing.
 
