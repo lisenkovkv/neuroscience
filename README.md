@@ -231,6 +231,8 @@
 
 [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/news/). Resources to support your Learning in Medical Neuroscience.
 
+[Mike X Cohen courses.](http://sincxpress.com/)
+
 # Videos
 
 [2-Minute Neuroscience](https://www.youtube.com/user/neurochallenged/featured)
