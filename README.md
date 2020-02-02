@@ -183,4 +183,8 @@
 
 [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
 
+[BCI workshop - NeuroTechTO](https://github.com/NeuroTechX/bci-workshop/blob/master/INSTRUCTIONS.md).This workshop is intended for people with no or limited experience with Brain-Computer Interfaces (BCIs).
+
+
+
 
