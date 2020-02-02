@@ -43,6 +43,10 @@
 
 [A list of all public EEG-datasets](https://github.com/meagmohit/EEG-Datasets)
 
+[Kaggle: psychology](https://www.kaggle.com/tags/psychology)
+
+[Psychological Datasets](https://guides.library.ucla.edu/psychology/data)
+
 # Data competitions
 
 [BCI competitions](http://bbci.de/competition/)
