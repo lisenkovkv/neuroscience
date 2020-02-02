@@ -116,6 +116,8 @@
 
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
 
+[BEYOND BOUNDARIES](https://www.amazon.com/Beyond-Boundaries-Neuroscience-Connecting-Machines/dp/1250002613).In this stunning and inspiring work, Duke University neuroscientist Miguel Nicolelis shares his revolutionary insights into how the brain creates thought and the human sense of self―and how this might be augmented by machines, so that the entire universe will be within our reach.
+
 ## Tech
 
 [Brain-Computer Interfacing: An Introduction](https://www.amazon.com/Brain-Computer-Interfacing-Introduction-Rajesh-Rao/dp/0521769418). Textbook for upper- level undergraduate and first year graduate courses in neural engineering or brain- computer interfacing for students from a wide range of disciplines.
@@ -127,6 +129,26 @@
 [Imaging Brain Function With EEG](https://www.springer.com/us/book/9781461449836). Advanced Temporal and Spatial Analysis of Electroencephalographic Signals.
 
 [MATLAB for Neuroscientists: An Introduction to Scientific Computing in MATLAB 2nd Edition](https://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing-ebook/dp/B00GHWH1VQ) serves as the only complete study manual and teaching resource for MATLAB, the globally accepted standard for scientific computing, in the neurosciences and psychology.
+
+[Quantitative EEG, Event-Related Potentials and Neurotherapy](https://www.amazon.com/Quantitative-EEG-Event-Related-Potentials-Neurotherapy/dp/0123745128). The volume provides detailed description of the various EEG rhythms and ERPs, the conventional analytic methods such as spectral analysis, and the emerging method utilizing QEEG and ERPs.
+
+[EEG Technology](https://www.amazon.com/EEG-Technology-R-Cooper/dp/0407160027). In a period when other methods of investigating brain disorders have been developing fast, notably the computerized axial tomograph, the EEG remains supreme as the window through which the functioning brain is observed.
+
+[Introduction to Quantitative EEG and Neurofeedback: Advanced Theory and Applications](https://www.amazon.com/Introduction-Quantitative-EEG-Neurofeedback-Second/dp/0123745349). The study of Quantitative EEGs and Neurofeedback offer a window into brain physiology and function via computer and statistical analyses, suggesting innovative approaches to the improvement of attention, anxiety, mood and behavior.
+
+[Fisch and Spehlmann's EEG Primer, Third Revised and Enlarged Edition: Basic Principles of Digital and Analog EEG](https://www.amazon.com/gp/product/0444821481)
+
+[Electric Fields of the Brain: The Neurophysics of EEG](https://www.amazon.com/Electric-Fields-Brain-Neurophysics-EEG/dp/019505038X)
+
+[Practical Guide for Clinical Neurophysiologic Testing: EEG](https://www.amazon.com/Practical-Guide-Clinical-Neurophysiologic-Testing/dp/0781778611). This book will be a standard text and reference for technologists, neurology residents, and clinical neurophysiology fellows.
+
+[Primer of EEG: With A Mini-Atlas](https://www.amazon.com/Primer-EEG-Mini-Atlas-James-Rowan/dp/0750674768). This practical handbook covers all the key aspects of EEG interpretation.
+
+[Practical Approach to Electroencephalography](https://www.amazon.com/Practical-Approach-Electroencephalography-Mark-Libenson/dp/0750674784)
+
+[Niedermeyer's Electroencephalography: Basic Principles, Clinical Applications, and Related Fields](https://www.amazon.com/Niedermeyers-Electroencephalography-Principles-Clinical-Applications/dp/0781789427).
+
+[Analyzing Neural Time Series Data: Theory and Practice](https://www.amazon.com/Analyzing-Neural-Time-Data-Neuropsychology/dp/0262019876).This book offers a comprehensive guide to the theory and practice of analyzing electrical brain signals.
 
 
 
@@ -154,3 +176,11 @@
 [Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 
 [CS198-96: Intro to Neurotechnology @ UC Berkeley](https://github.com/neurotech-berkeley/neurotech-course)
+
+[Signals and Systems](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) is an introduction to analog and digital signal processing, a topic that forms an integral part of engineering systems in many diverse areas, including seismic data processing, communications, speech processing, image processing, defense electronics, consumer electronics, and consumer products.
+
+[Data analysis lecturelets by Mike X Cohen](http://www.mikexcohen.com/lectures.html).This site contains a growing number of videos in which the mechanics and implementations of time-frequency-based data analyses of neural time series data are explained.
+
+[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
+
+
