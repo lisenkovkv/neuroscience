@@ -112,7 +112,23 @@
 [gtec.at](https://www.gtec.at/product/) develops and produces high-performance brain-computer interfaces and neurotechnologies for invasive and non-invasive recordings.
 
 # Books
+## Overview
+
 [The NeuroGeneration](https://www.amazon.com/NeuroGeneration-Brain-Enhancement-Revolutionizing-Think-ebook-dp-B07QMDKVJJ/dp/B07QMDKVJJ/ref=mt_kindle). In The NeuroGeneration, award-winning inventor Tan Le explores exciting advancements in brain science and neurotechnology that are revolutionizing the way we think, work, and heal.
+
+## Tech
+
+[Brain-Computer Interfacing: An Introduction](https://www.amazon.com/Brain-Computer-Interfacing-Introduction-Rajesh-Rao/dp/0521769418). Textbook for upper- level undergraduate and first year graduate courses in neural engineering or brain- computer interfacing for students from a wide range of disciplines.
+
+[Brain-Computer Interfaces: Principles and Practice](https://www.amazon.com/Brain-Computer-Interfaces-Principles-Jonathan-Wolpaw/dp/0195388852).This book is intended to provide an introduction to and summary of essentially all major aspects of BCI research and development.
+
+[Analyzing Neural Time Series Data](https://mitpress.mit.edu/books/analyzing-neural-time-series-data). A comprehensive guide to the conceptual, mathematical, and implementational aspects of analyzing electrical brain signals, including data from MEG, EEG, and LFP recordings.
+
+[Imaging Brain Function With EEG](https://www.springer.com/us/book/9781461449836). Advanced Temporal and Spatial Analysis of Electroencephalographic Signals.
+
+[MATLAB for Neuroscientists: An Introduction to Scientific Computing in MATLAB 2nd Edition](https://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing-ebook/dp/B00GHWH1VQ) serves as the only complete study manual and teaching resource for MATLAB, the globally accepted standard for scientific computing, in the neurosciences and psychology.
+
+
 
 # Android app
 [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk). Android SDK for the NeuroSky MindWave Mobile Brainwave Sensing Headset
