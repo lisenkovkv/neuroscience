@@ -43,11 +43,23 @@
 
 [A list of all public EEG-datasets](https://github.com/meagmohit/EEG-Datasets)
 
-# Data analysis competitions
+# Data competitions
 
 [BCI competitions](http://bbci.de/competition/)
 
 [Review of the BCI competition IV](https://www.frontiersin.org/articles/10.3389/fnins.2012.00055/full). The BCI competition IV stands in the tradition of prior BCI competitions that aim to provide high quality neuroscientific data for open access to the scientific community. As experienced already in prior competitions not only scientists from the narrow field of BCI compete, but scholars with a broad variety of backgrounds and nationalities. They include high specialists as well as students. The goals of all BCI competitions have always been to challenge with respect to novel paradigms and complex data. We report on the following challenges: (1) asynchronous data, (2) synthetic, (3) multi-class continuous data, (4) session-to-session transfer, (5) directionally modulated MEG, (6) finger movements recorded by ECoG. As after past competitions, our hope is that winning entries may enhance the analysis methods of future BCIs.
+
+[Grasp-and-Lift EEG Detection](https://www.kaggle.com/c/grasp-and-lift-eeg-detection). Identify hand motions from EEG recordings.
+
+[BCI Challenge @ NER 2015](https://www.kaggle.com/c/inria-bci-challenge). The goal of the competition is to detect errors during the spelling task, given the subject's brain waves.
+
+[DecMeg2014 - Decoding the Human Brain](https://www.kaggle.com/c/decoding-the-human-brain). Predict visual stimuli from MEG recordings of human brain activity.
+
+[American Epilepsy Society Seizure Prediction Challenge](https://www.kaggle.com/c/seizure-prediction). Predict seizures in intracranial EEG recordings.
+
+[UPenn and Mayo Clinic's Seizure Detection Challenge](https://www.kaggle.com/c/seizure-detection). Detect seizures in intracranial EEG recordings.
+
+
 
 # Organizations
 
@@ -66,6 +78,8 @@
 [Neuriscience community](https://neurotechx.com/).
 
 [NeuroBB](https://neurobb.com/) the EEG, BCI, and neurofeedback discussion forum.
+
+[Society for neuroscience](https://www.sfn.org/)
 
 # Devices
 
