@@ -233,6 +233,8 @@
 
 [Mike X Cohen courses.](http://sincxpress.com/)
 
+[EEGEdu](https://eegedu.com/). This tutorial will help you learn about how neurons produce electrical activity we can measure.
+
 # Videos
 
 [2-Minute Neuroscience](https://www.youtube.com/user/neurochallenged/featured)
