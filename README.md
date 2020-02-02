@@ -85,6 +85,10 @@
 
 [Society for neuroscience](https://www.sfn.org/)
 
+[NEUROECONOMICS LAB](https://www.neuroeconomicslab.org/) The central goal of the laboratory for economics, psychology and neuroscience of decision is to develop and advance interdisciplinary models of human choice.
+
+
+
 # Devices
 
 [OpenBCI](https://openbci.com/). Open Source Brain-Computer Interfaces.
