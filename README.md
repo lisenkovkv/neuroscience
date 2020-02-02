@@ -91,6 +91,10 @@
 
 [Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/)
 
+[The Neuroscience Information Framework](https://neuinfo.org/) is a dynamic inventory of Web-based neuroscience resources: data, materials, and tools accessible via any computer connected to the Internet.
+
+
+
 
 
 # Devices
