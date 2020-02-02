@@ -214,3 +214,5 @@
 [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging)
 
 [Real Neurons & Hidden Units: Future directions at the intersection of neuroscience and artificial intelligence @ NeurIPS 2019](https://sites.google.com/mila.quebec/neuroaiworkshop/home)
+
+[Advanced Neurobiology I](https://www.coursera.org/learn/advanced-neurobiology1). Through this course, you'll have a comprehensive understanding of basic neuroanatomy, electral signal transduction, movement and several diseases in the nervous system. 
