@@ -219,6 +219,8 @@
 
 [Advanced Neurobiology I](https://www.coursera.org/learn/advanced-neurobiology1). Through this course, you'll have a comprehensive understanding of basic neuroanatomy, electral signal transduction, movement and several diseases in the nervous system.
 
+[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience). This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
+
 # Videos
 
 [2-Minute Neuroscience](https://www.youtube.com/user/neurochallenged/featured)
