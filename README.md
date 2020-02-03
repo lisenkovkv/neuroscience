@@ -213,6 +213,8 @@
 
 [Marc Dingman](https://www.neuroscientificallychallenged.com/)
 
+[The Neurocritic](https://neurocritic.blogspot.com/)
+
 
 # Courses
 
