@@ -32,6 +32,8 @@
 
 [Nitime](https://github.com/nipy/nitime) is a library for time-series analysis of data from neuroscience experiments.
 
+[Nengo](https://github.com/nengo/nengo) is a Python library for building and simulating large-scale neural models. 
+
 # Datasets
 
 [https://github.com/meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets). A list of all public EEG-datasets. 
