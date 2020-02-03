@@ -24,6 +24,11 @@
 
 [pyRiemann](https://github.com/alexandrebarachant/pyRiemann) is a python package for covariance matrices manipulation and classification through riemannian geometry.
 
+[Expyriment](https://github.com/expyriment/expyriment) is an open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioral and neuroimaging experiments.
+
+[Brian](https://github.com/brian-team/brian2) is a free, open source simulator for spiking neural networks.
+
+[PsychoPy](https://github.com/psychopy/psychopy) is an free cross-platform package allowing you run a wide range of in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics
 
 # Datasets
 
