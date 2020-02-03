@@ -68,6 +68,8 @@
 
 [EEG Analysis](https://www.kaggle.com/jbouv27/eeg/tasks). Sleep Pattern detection.
 
+[Collaborative Research in Computational Neuroscience](http://crcns.org/data-sets)
+
 
 
 # Data competitions
@@ -255,6 +257,8 @@
 [EEGEdu](https://eegedu.com/). This tutorial will help you learn about how neurons produce electrical activity we can measure.
 
 [Complete neural signal processing and analysis: Zero to hero](https://www.udemy.com/course/solved-challenges-ants/). Learn signal processing and statistics using brain electrical data with expert instruction and code challenges in MATLAB.
+
+[Introduction to Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/). This course is an introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain. Topics include the function of nerve cells, sensory systems, control of movement, learning and memory, and diseases of the brain.
 
 
 # Videos
