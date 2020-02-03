@@ -28,7 +28,9 @@
 
 [Brian](https://github.com/brian-team/brian2) is a free, open source simulator for spiking neural networks.
 
-[PsychoPy](https://github.com/psychopy/psychopy) is an free cross-platform package allowing you run a wide range of in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics
+[PsychoPy](https://github.com/psychopy/psychopy) is an free cross-platform package allowing you run a wide range of in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics.
+
+[Nitime](https://github.com/nipy/nitime) is a library for time-series analysis of data from neuroscience experiments.
 
 # Datasets
 
